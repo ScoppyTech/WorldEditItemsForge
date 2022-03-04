@@ -2,7 +2,6 @@
 Does it bother you that WorldEdit uses native objects in Minecraft and ruins the gaming experience? this mod is just for you
 <a href="https://www.curseforge.com/minecraft/mc-mods/worldedit" rel="WorldEdit"><img src="https://i.imgur.com/NPJlfEq.png" alt="" /></a>
 
-~~⚠️WARNING!!! THIS MOD IS ONLY FOR FABRIC!!! FOR NOW, I DON'T HAVE A PROJECT FOR FORGE~~
 <a href="https://github.com/ScoppyTech/WorldEditItems">Fabric Edition</a> is available
 
 # Configuration
