@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT License"
+
+[[mods]]
+modId="worldedititems_forge"
+version="1.1.0"
+displayName="WorldEdit Items"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://github.com/ScoppyTech/WorldEditItemsForge"
+logoFile="logo.png"
+authors="e splat"
+description='''
+Forge Edition of the Fabric Mod
+'''
+
+[[dependencies.worldedititems_forge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.worldedititems_forge]]
+    modId="worldedit"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+

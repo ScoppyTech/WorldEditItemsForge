@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "World Edit Items",
+    "icon": {
+      "value": "CUSTOM:WorldEditWand"
+    },
+    "showSearch": false
+  }
+}
